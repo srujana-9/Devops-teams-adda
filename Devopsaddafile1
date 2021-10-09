@@ -1,0 +1,7 @@
+a = 10;
+b = 20;
+echo "arithmetic ops "
+set -x
+Add = 'express $a + $b'
+set +x
+echo "arithmetic ops over"
